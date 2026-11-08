@@ -22,7 +22,6 @@ I use data to uncover insights, identify trends, and support evidence-based deci
 - **Data Management:** Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA)
 
 ### Projects
-- [Data Analysis Projects](YOUR_DATA_ANALYSIS_REPOSITORY_LINK)
 - [SQL Projects](https://github.com/Prinx4real/Data-Analysis-Project-Layoff-MYSQL)
 - [Power BI Dashboards](https://github.com/Prinx4real/Superstore-Analytics-Dashboard-using-Power-bi-Built-in-Tool)
 
