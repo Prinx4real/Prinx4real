@@ -1,5 +1,5 @@
 
-##  gm! I'm Prince! 
+##  Gm! I'm Prince! 
 
 Welcome to my GitHub! I'm passionate about technology, data, and blockchain innovation. I enjoy solving problems, analysing data, and building decentralised applications.
 
