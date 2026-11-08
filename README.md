@@ -23,8 +23,8 @@ I use data to uncover insights, identify trends, and support evidence-based deci
 
 ### Projects
 - [Data Analysis Projects](YOUR_DATA_ANALYSIS_REPOSITORY_LINK)
-- [SQL Projects](YOUR_SQL_REPOSITORY_LINK)
-- [Power BI Dashboards](YOUR_POWER_BI_REPOSITORY_LINK)
+- [SQL Projects](https://github.com/Prinx4real/Data-Analysis-Project-Layoff-MYSQL)
+- [Power BI Dashboards](https://github.com/Prinx4real/Superstore-Analytics-Dashboard-using-Power-bi-Built-in-Tool)
 
 ## ⛓️ Solidity & Blockchain Development
 
@@ -39,9 +39,12 @@ Building smart contracts and exploring decentralised applications using Solidity
 - Viem
 
 ### Smart Contract Development
-- [Governance Wallet – Multisignature Wallet](https://github.com/Prinx4real/Governance-Wallet)
-- [Crowdfunding Application](YOUR_REPOSITORY_LINK)
-- [Decentralised Exchange](YOUR_REPOSITORY_LINK)
+- [Governance Wallet](https://github.com/Prinx4real/Governance-Wallet)
+- [Upgradable-contract](https://github.com/Prinx4real/Upgradable-contract)
+- [ERC-721](https://github.com/Prinx4real/ERC-721)
+- [Smart-Contract-Lottery](https://github.com/Prinx4real/Smart-Contract-Lottery)
+- [Foundry-fund-Me-f23](https://github.com/Prinx4real/Foundry-fund-Me-f23)
+  
 
 ### Smart Contract Security
 - Smart Contract Auditing
@@ -61,7 +64,7 @@ Building smart contracts and exploring decentralised applications using Solidity
 ## 📫 Connect With Me
 
 - GitHub: [@Prinx4real](https://github.com/Prinx4real)
-- Twitter/X: [Your Twitter Profile](YOUR_TWITTER_LINK)
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_LINK)
+- Twitter/X: [Your Twitter Profile](https://x.com/Prinx4real)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/prince-obinna-462908175/)
 
 **We don't just embrace the future; we build it. 🚀**
